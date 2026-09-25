@@ -1,5 +1,5 @@
 
-<img width="60" height="144" alt="image" src="https://github.com/user-attachments/assets/fb0632e7-f0ac-47a0-811f-cd1bc7d5c247" />  Plant Buddy                      
+![Demo](assets/plant-buddy-poster.jpeg)
 
 
 > A small interactive desktop plant companion that turns plant care into a simple, playful experience.
@@ -150,20 +150,5 @@ Some ideas I may explore in future versions:
 * 🎵 Small ambient sound effects
 
 ---
-
-## 📸 Preview
-
-<img src="assets/plant-buddy-poster.jpeg" alt="Plant Buddy working" width="700">
-
-```text
-plant-buddy-poster.jpeg
-
-```
-
----
-
-## 👤 Author
-
-**Krishna Patel**
 
 ⭐ If you found this project interesting, feel free to explore the repository and check out my other creative coding experiments.
